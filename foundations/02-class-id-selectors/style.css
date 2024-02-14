@@ -1,0 +1,19 @@
+.Odd{
+background-color: palevioletred;
+font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.adjust-font-size{
+font-size: 36px;
+}
+
+#Two{
+color: blue;
+font-size: 36px;
+}
+
+#Four{
+background-color: lightgreen;
+font-size: 24px;
+font-weight: bold;
+}
